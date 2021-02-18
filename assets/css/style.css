@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 @media screen and (max-width: 768px) {
   #header .logo img {
-  max-height: 45px;
+  max-height: 65px;
 }
   [data-aos-delay] {
     transition-delay: 0 !important;
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #header .logo img {
-  max-height: 45px;
+  max-height: 65px;
 }
   .get-started-btn {
     margin: 0 48px 0 0;
@@ -324,7 +324,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9998;
   border: 0;
   background: none;
-  font-size: 24px;
+  font-size: 50px;
   transition: all 0.4s;
   outline: none !important;
   line-height: 1;
@@ -359,6 +359,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a {
+  font-size: xx-large;
   display: block;
   position: relative;
   color: #15222b;
@@ -526,7 +527,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #header .logo img {
-  max-height: 45px;
+  max-height: 65px;
 }
   #hero h1 {
     font-size: 28px;
@@ -878,7 +879,7 @@ section {
 
 @media (max-width: 768px) {
   #header .logo img {
-  max-height: 45px;
+  max-height: 65px;
 }
   .clients img {
     max-width: 40%;
@@ -926,7 +927,7 @@ section {
 
 @media (max-width: 768px) {
   #header .logo img {
-  max-height: 45px;
+  max-height: 65px;
 }
   .features .nav-link i {
     padding: 0;
@@ -937,7 +938,7 @@ section {
 
 @media (max-width: 575px) {
   #header .logo img {
-  max-height: 45px;
+  max-height: 65px;
 }
   .features .nav-link {
     padding: 15px;
@@ -1578,7 +1579,7 @@ section {
 
 @media (max-width: 768px) {
   #header .logo img {
-  max-height: 45px;
+  max-height: 65px;
 }
   .portfolio-details .portfolio-info {
     position: static;
