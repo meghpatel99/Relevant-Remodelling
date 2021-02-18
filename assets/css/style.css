@@ -337,6 +337,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav {
+  text-align: center;
   position: fixed;
   top: 55px;
   right: 15px;
@@ -363,7 +364,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   position: relative;
   color: #15222b;
-  padding: 10px 95px;
+  padding: 10px 20px;
   font-weight: 500;
   outline: none;
 }
