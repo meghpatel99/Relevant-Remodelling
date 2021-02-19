@@ -883,7 +883,8 @@ section {
   max-height: 65px;
 }
   .clients img {
-    max-width: 40%;
+    max-width: 80%;
+    
   }
 }
 
